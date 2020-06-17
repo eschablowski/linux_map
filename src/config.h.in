@@ -1,0 +1,4 @@
+#cmakedefine MIN_DISTANCE "@MIN_DISTANCE@"
+#cmakedefine COMPRESSION "@COMPRESSION@"
+
+#cmakedefine CREATE_COMMAND "@CREATE_COMMAND@"
